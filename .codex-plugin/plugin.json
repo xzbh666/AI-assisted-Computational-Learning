@@ -1,0 +1,33 @@
+{
+  "interface": {
+    "capabilities": [
+      "Interactive"
+    ],
+    "category": "Productivity",
+    "defaultPrompt": [
+      "解答这道题，并解释方法原理与关键代码；能运行就验证结果。",
+      "开启深度学习模式：先给答案，再用概念问题检查我的理解。",
+      "检查这段 Python/R 代码的正确性，解释每一部分为什么这样写。"
+    ],
+    "developerName": "xzbh666",
+    "displayName": "Code to Understanding",
+    "longDescription": "Solve computational exercises with reproducible code, explain the underlying subject knowledge and code fundamentals separately, and check understanding with one focused question.",
+    "shortDescription": "Solve, run, learn the why"
+  },
+  "name": "code-to-understanding",
+  "version": "0.1.0",
+  "description": "Turn computational coursework into verified solutions, conceptual understanding, and practical code literacy.",
+  "author": {
+    "name": "xzbh666"
+  },
+  "keywords": [
+    "learning",
+    "statistics",
+    "coding",
+    "causal-inference",
+    "operations-research",
+    "education"
+  ],
+  "repository": "https://github.com/xzbh666/AI-assisted-Computational-Learning",
+  "skills": "./skills/"
+}
